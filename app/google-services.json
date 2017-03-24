@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "40502094365",
+    "firebase_url": "https://mystudyfirebase.firebaseio.com",
+    "project_id": "mystudyfirebase",
+    "storage_bucket": "mystudyfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40502094365:android:2ffb49dd8e74df65",
+        "android_client_info": {
+          "package_name": "com.coors.mystudyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40502094365-1hot4f120h78dikbk5ka523gaiupo6u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coors.mystudyfirebase",
+            "certificate_hash": "8665914ae0488479412fffa387228c31716d0747"
+          }
+        },
+        {
+          "client_id": "40502094365-4o51fji47d6a3hnmj69b3pco95rpkuh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAohGNjuFfYSUY_9Dkp8RBvfU7xJdTaUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40502094365-4o51fji47d6a3hnmj69b3pco95rpkuh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
