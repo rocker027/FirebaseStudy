@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyStudyFirebase</string>
     <string name="action_settings">Settings</string>
+    <string name="message_login_failed">login failed</string>
+    <string name="dialog_ok">login ok</string>
+    <string name="web_application_client_id">655488028633-b54al5vmbdii37s253dosk01mh8p6d06.apps.googleusercontent.com</string>
 </resources>
